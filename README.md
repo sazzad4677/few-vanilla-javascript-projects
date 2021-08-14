@@ -11,3 +11,10 @@
     - Live link: <https://modal235.netlify.app/>
     - This is another simple javascript dom manipulation project in which will show a modal when a button is pressed.
       - When the Escape key or the mouse button is pressed in the overlay, the modal will be closed.
+3.  Pig Game
+    - Live link: <https://pig-game-25.netlify.app/>
+    - When a player rolls a dice, the number of the dice is added to the current score. This is the most recent round's score.
+    - Player can able to roll the dice as much as he want.
+    - If player score is equal to one, the game will reset the current holding score and switch the dice to the next player.
+    - When player press the hold button the game will added the current player score in score board.
+    - Whoever scores fifty points first wins.
