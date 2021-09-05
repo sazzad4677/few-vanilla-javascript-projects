@@ -1,4 +1,4 @@
-# five-javascript-project-demo
+# few vanilla javascript projects
 
 1.  Guess The number
     - Live link: <https://try-guess-the-number.netlify.app/>
